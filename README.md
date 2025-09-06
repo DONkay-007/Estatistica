@@ -15,12 +15,4 @@ O notebook `estatistica.ipynb` reúne exemplos que vão desde **medidas de posi�
 ## 📂 Arquivo
 - `estatistica.ipynb` → exemplos práticos de estatística
 
----
 
-## 📖 Conteúdos Abordados
-
-### 🔹 1. Medidas de Posição
-```python
-df["idade"].mean()     # Média
-df["idade"].median()   # Mediana
-df["idade"].mode()[0]  # Moda
